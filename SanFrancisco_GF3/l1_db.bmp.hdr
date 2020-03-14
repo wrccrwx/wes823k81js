@@ -1,0 +1,8 @@
+ENVI
+description = {
+PolSARpro File Imported to ENVI }
+samples = 1824
+lines   = 1440
+max val = 33.042046
+min val = 18.514660
+color   = 8 bytes
